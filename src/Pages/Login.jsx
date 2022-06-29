@@ -20,7 +20,7 @@ const Login = () => {
                           </div>
                             <div>
                             <img src={Twi} alt=""  className='w-20 hover:w-24'/>
-                            BNewhh
+                            
                           </div>
                             <div>
                                   <img src={Google} alt="" className='w-16 hover:w-20'/>
